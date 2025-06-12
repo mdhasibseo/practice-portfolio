@@ -1,0 +1,27 @@
+ .first{
+    background-image: url('../images/Banner Image.png');
+    background-size: 100% 100% ;
+    background-position: center;
+    padding: 100px 10px;
+    color: #FFFFFF;
+   
+   
+   
+}
+   .banner h6{
+     margin: 0px;
+     font-size: 20px;
+   }
+   .banner h1 {
+    gap
+
+   }
+.text {
+   text-align: center;
+  
+   }
+ .position {
+   font-size: 32px;
+    margin-top: -90px;
+    line-height: 20px;
+}
