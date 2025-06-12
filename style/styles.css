@@ -42,3 +42,25 @@
     margin-top: 10px;
  
 }
+.third{
+  background-image:  url('../images/Vectorrr.png');
+  width: 100%,200px;
+  background-size: 100% 100%;
+  background-position: center;
+   padding: 100px 10px;
+   line-height: 20px;
+   color: white;
+   margin-left: 40px;
+   margin-right: 40px;
+}
+.body{
+  margin-left: 40px;
+  
+}
+
+ #btn
+  {
+    background-color:black;
+    color: #FFFFFF;
+    backdrop-filter: blur;
+  }
