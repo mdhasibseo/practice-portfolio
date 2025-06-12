@@ -64,3 +64,15 @@
     color: #FFFFFF;
     backdrop-filter: blur;
   }
+  .fourth{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 50px;
+    text-align: center;
+    background-color:rgba(236, 193, 193, 0.753)
+    
+  }
+span{
+  color: red;
+}
