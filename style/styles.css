@@ -76,3 +76,29 @@
 span{
   color: red;
 }
+.offer{
+  display: flex;
+  line-height: 15px;
+  justify-content: space-between;
+  margin: 100px 50px 50px;
+  padding: 50px;
+   
+} 
+.color{
+  margin-bottom: -12px;
+  color: red;
+}
+.image{
+  align-items: center;
+}
+.mini{
+   margin-top: 10%;
+   
+  
+}
+.btn-join{
+  background-color: red;
+  color: white;
+  padding: 10px;
+
+}
