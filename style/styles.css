@@ -102,3 +102,23 @@ span{
   padding: 10px;
 
 }
+.discount{
+ margin-left: 60%;
+ width: 200px;
+}
+.gift{
+  background: red;
+  margin-top: -400px;
+  padding-left: 80px;
+
+ 
+}
+.sale{
+  text-align: center;
+}
+.all{
+  padding: 50px;
+}
+.sale>h1{
+  margin-bottom: -8px;
+}
