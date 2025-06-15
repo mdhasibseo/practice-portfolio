@@ -134,3 +134,17 @@ margin-left: 15%;
 .the{
   margin-bottom: -10px;
 }
+.email {
+margin-left: 47%;
+}
+.Subscribe{
+    text-align: center;
+}
+.full{
+  background-color: gainsboro;
+  margin: 50px;
+  padding: 30px;
+}
+.all-btn{
+  margin-left:40% ;
+}
