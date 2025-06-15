@@ -148,3 +148,24 @@ margin-left: 47%;
 .all-btn{
   margin-left:40% ;
 }
+/* footer */
+footer{
+  background-color: black;
+  color: white;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+.last{
+margin-left: 40%;
+
+}
+.black{
+  display: flex;
+  justify-content: space-between;
+}
+.final{
+  margin-top: 30px;
+  padding:50px
+}
